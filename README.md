@@ -32,3 +32,6 @@ Download `BurnoutRush-Windows.zip` from [Releases](https://github.com/Deepanshu1
 
 1. Install **Unity 2020.3.6f1** (2020.3 LTS) through Unity Hub.
 2. Clone this 
+## Acknowledgement
+
+Inspired by and partly based on Abhijeet Pitumbur's open-source racing project; extended with my own tracks, modes, AI and features.
