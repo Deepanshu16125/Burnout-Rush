@@ -1,6 +1,6 @@
 # Burnout Rush
 
-Burnout Rush is a 3D arcade racing game built in **Unity with C#**. You pick a car and a track, then race AI opponents over several laps, or play split-keyboard two-player against a friend. It placed **2nd in the 3rd-year B.Tech project evaluation at SAITM, Gurugram**.
+Burnout Rush is a 3D arcade racing game built in **Unity with C#**. You pick a car and a track, then race AI opponents over several laps, or play split-keyboard two-player against a friend.
 
 ![Gameplay](docs/gameplay.gif)
 
